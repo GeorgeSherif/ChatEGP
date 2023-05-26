@@ -9,3 +9,5 @@ The next phase consist of translating the Arabic dataset into English, and then 
 founded in both files called "Testing After Preprocessing.ipynb", and "Testing Without Preprocessing & Testing With Data Augmentation.ipynb".
 
 In the remaining files, side tasks such as preprocessing the English dataset can be found in "preprocessing.ipynb", and the data augmentation can be found in "paraphrasewithBertAgain.ipynb"
+
+The last file is the "Results.ipynb", which combines the results of all previous approaches and draw some diagrams to visualize the results.
