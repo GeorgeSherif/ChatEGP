@@ -8,4 +8,4 @@ Each model run for 16 epoch and the best epoch is chosen for the next phase.
 The next phase consist of translating the Arabic dataset into English, and then testing the best epoch chosen before to check the accuracy. These steps can be
 founded in both files called "Testing After Preprocessing.ipynb", and "Testing Without Preprocessing & Testing With Data Augmentation.ipynb".
 
-In the remaining files, side tasks 
+In the remaining files, side tasks such as preprocessing the English dataset can be found in "preprocessing.ipynb", and the data augmentation can be found in "paraphrasewithBertAgain.ipynb"
