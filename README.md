@@ -11,3 +11,7 @@ founded in both files called "Testing After Preprocessing.ipynb", and "Testing W
 In the remaining files, side tasks such as preprocessing the English dataset can be found in "preprocessing.ipynb", and the data augmentation can be found in "paraphrasewithBertAgain.ipynb"
 
 The last file is the "Results.ipynb", which combines the results of all previous approaches and draw some diagrams to visualize the results.
+
+Datasets used:
+1) English Dataset --> www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news?select=all-data.csv
+2) Arabic Dataset --> www.kaggle.com/datasets/haithemhermessi/sanad-dataset
